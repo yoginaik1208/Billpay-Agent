@@ -1,0 +1,2 @@
+chmod +x auto-setup-billpay-agent.sh
+./auto-setup-billpay-agent.sh
